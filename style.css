@@ -1,0 +1,10 @@
+body{
+    margin-top: 3cm;
+    margin-left: 8cm;
+    margin-bottom: 5cm;
+    margin-right: 15cm;
+   
+    background-image: url("bg1.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
